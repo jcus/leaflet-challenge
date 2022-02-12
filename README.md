@@ -1,6 +1,6 @@
 # Leaflet - Visualizing Data with Leaflet :signal_strength:
 
-## Summary
+## Summary :signal_strength:
 
 USGS Earthquake Data Visualization with Leaflet
 
@@ -10,7 +10,7 @@ Welcome to the United States Geological Survey, or USGS for short. The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-### Preparing Ahead :signal_strength:
+### Preparing Ahead 
 
 1. In theis project, the folder `leaflet-challenge` correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**, these will be the main files to run for analysis.
 
