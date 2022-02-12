@@ -4,7 +4,7 @@
 
 USGS Earthquake Data Visualization with Leaflet
 
-![1-Logo](Images/1-Logo.png)
+
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
@@ -69,8 +69,8 @@ In this step, you will:
 
 Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
 
-**Good luck!**
 
+![1-Logo](Images/1-Logo.png)
 
 ___
 © 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
