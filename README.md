@@ -1,4 +1,4 @@
-# Leaflet - Visualizing Data with Leaflet :EMOJICODE::signal_strength:
+# Leaflet - Visualizing Data with Leaflet :signal_strength:
 
 ## Summary
 
@@ -10,14 +10,14 @@ Welcome to the United States Geological Survey, or USGS for short. The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-### Preparing Ahead
+### Preparing Ahead :signal_strength:
 
 1. In theis project, the folder `leaflet-challenge` correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**, these will be the main files to run for analysis.
 
 2. This project uses both **html** and **JavaScript** 
 
 
-## Your Task
+## Task :signal_strength:
 
 ### Level 1: Basic Visualization
 
@@ -65,15 +65,12 @@ In this step, you will:
 
 - - -
 
-### Assessment
+### Assessment  :signal_strength:
 
 Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
 
 **Good luck!**
 
-## Rubric
-
-[Unit 15 Rubric - Leaflet Homework - Visualizing Data with Leaflet](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit?usp=sharing)
 
 ___
 © 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
