@@ -1,10 +1,8 @@
-# Leaflet - Visualizing Data with Leaflet :signal_strength:
+# Leaflet - Visualizing Data with Leaflet 
 
 ## Summary :signal_strength:
 
 USGS Earthquake Data Visualization with Leaflet
-
-
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
@@ -25,7 +23,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Your first task is to visualize an earthquake data set.
 
-1. **Get your data set**
+1. **Get the data set**
 
    ![3-Data](Images/3-Data.png)
 
@@ -35,27 +33,27 @@ Your first task is to visualize an earthquake data set.
 
 2. **Import & Visualize the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   Create a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
+   * Data markers could reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
-   * **HINT:** The depth of the earth can be found as the third coordinate for each earthquake.
+   * ** The depth of the earth can be found as the third coordinate for each earthquake.
 
    * Include popups that provide additional information about the earthquake when a marker is clicked.
 
    * Create a legend that will provide context for your map data.
 
-   * Your visualization should look something like the map above.
+   * The visualization looks like the map above.
 
 - - -
 
-### Level 2: More Data (Optional)
+### Level 2: More Data
 
 ![5-Advanced](Images/5-Advanced.png)
 
-The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it alongside your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+The USGS wants to plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. By pulling in a second data set and visualize it alongside the original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
-In this step, you will:
+In this step:
 
 * Plot a second data set on our map.
 
@@ -67,7 +65,25 @@ In this step, you will:
 
 ### Assessment  :signal_strength:
 
-Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
+Your final product will be assessed:
+
+The rendered leaflet map has all of the following: 
+* TileLayer loads without error
+* Connects to geojson API using D3 without error
+* Markers with size corresponding to earthquake magnitude
+* A legend showing the depth and their corresponding color
+
+The data points do all of the following:
+* Data points scale with magnitude level
+* Data points colors change with depth level
+* Each point has a tooltip with the Magnitude, the location and depth
+* All data points load in the correct locations
+
+The leaflet map has all of the following: 
+* Control to change basemap
+* Control to add/remove layers
+* Tectonic plate lines on map
+
 
 
 ![1-Logo](Images/1-Logo.png)
