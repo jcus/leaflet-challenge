@@ -1,6 +1,6 @@
 // Step 1:  Visualization
 // if having rouble displaying the maps, try run in your environment 
-upyter nbextension enable --py gmaps
+// upyter nbextension enable --py gmaps
 
 //  API key for Mapbox
 var apiKey = "pk.eyJ1Ijoia3JhbmdhcmFqIiwiYSI6ImNrZnExOGF1azA0ZWUyem13Z2I4eXl3bm0ifQ.Des8-3h8tvcznNQY06efSg";
